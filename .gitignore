@@ -1,0 +1,90 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/Backup files
+*.log
+*.tmp
+*.temp
+*.orig
+*.bak
+*.swp
+
+# IntelliJ
+out/
+*.ipr
+*.iws
+*.idea/
+
+# Android specific
+/app/build/
+*.apk
+*.ap_
+*.db
+*.tar.gz
+*.tgz
+*.jar
+*.war
+*.ear
+
+# Gradle specific
+.gradle/
+build/
+*/build/
+!gradle-wrapper.jar
+
+# Files for the dex process
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Signing key files
+*.keystore
+
+# Crashlytics and Fabric
+crashlytics.properties
+fabric.properties
+
+# Google Services (Firebase config file)
+google-services.json
+
+# Ignore Android dependencies
+/.cxx/
+.externalNativeBuild/
+cmake-build-debug/
+
+# Node.js (if using React Native or some other Node integration)
+node_modules/
+
+# JetBrains IDEs
+.idea/
